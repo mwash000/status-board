@@ -16,3 +16,4 @@ artifacts:
     - index.html
     - styles.css
     - appspec.yml
+    - scripts/*
